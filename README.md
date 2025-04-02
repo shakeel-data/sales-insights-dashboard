@@ -6,3 +6,9 @@ The Sales Analysis Dashboard is an interactive and visually compelling Excel-bas
 
 ## Dataset used
 - <a href="https://github.com/Shakeel-Data/Sales-Analysis-Dashboard/blob/main/Dataset.xlsx">Dataset</a>
+
+# Dashboard
+![Project_overview](https://github.com/user-attachments/assets/85aabed7-92df-42f0-8ca6-f0aa6390faff)
+![Project_overview2](https://github.com/user-attachments/assets/5bc6ee12-a00e-4e5c-a7a1-e7e1f4208158)
+
+
