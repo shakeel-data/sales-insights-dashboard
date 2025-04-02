@@ -66,6 +66,7 @@ The Sales Analysis Dashboard is an interactive and visually compelling Excel-bas
 - Customer Segmentation Analysis:
   - Identify purchasing behaviors of new, regular, and VIP customers.
   - Use clustering techniques to categorize high-value customers.
+  - Identify factors influencing customer churn.
 - Real-Time Data Integration:
   - Connect the dashboard with live sales data for real-time monitoring.
   - Use Power BI or Tableau for enhanced visualizations and insights.
