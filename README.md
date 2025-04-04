@@ -51,7 +51,7 @@ The Sales Analysis Dashboard is an interactive and visually compelling Excel-bas
     - Brazil ($5,16,888) – 10%
   - The interactive map visualization highlights global sales trends, helping businesses optimize supply chains and market expansion.
 
-## Business Impact & Applications
+## Business Impact 
 - Data-Driven Decision-Making – Helps managers understand sales trends and improve strategies.
 - Performance Monitoring – Identifies high-performing regions, product categories, and managers.
 - Operational Efficiency – Tracks order fulfillment rates and highlights potential improvement areas.
