@@ -5,7 +5,7 @@ The Sales Analysis Dashboard provides key insights into regional sales, category
 The Sales Analysis Dashboard is an interactive and visually compelling Excel-based tool designed to provide business stakeholders with key insights into sales performance across multiple regions, customer segments, and payment methods. This dashboard enables decision-makers to track total sales, profitability, regional distribution, category-wise performance, and order statuses at a glance.
 
 ## Datasets Utilized
-- <a href="https://github.com/Shakeel-Data/Sales-Analysis-Dashboard/blob/main/Dataset.xlsx">Dataset</a>
+- <a href="https://github.com/Shakeel-Data/Sales-Analysis-Dashboard/blob/main/Dataset.xlsx">Data</a>
 
 # Dashboard
 ![Project_overview](https://github.com/user-attachments/assets/85aabed7-92df-42f0-8ca6-f0aa6390faff)
