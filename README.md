@@ -60,22 +60,16 @@ The sales-by-month visualization showcases seasonal trends and peak sales months
 ## 🧰 Technology Stack Used
 - **Microsoft Excel** (Data visualization, Pivot Tables, Charts)
 - **Power Query** (Data transformation and cleaning)
-- **Data Validation & Conditional Formatting** (For interactive filtering and analysis)
+- **Data Validation & Conditional Formatting** (Interactive filtering and analysis)
 
 ## 🔍 Additional Project Ideas to Explore
 - **Customer Segmentation Analysis**
   - Identify purchasing behaviors of new, regular, and VIP customers.
   - Use clustering techniques to categorize high-value customers.
-  - Identify factors influencing customer churn.
 - **Real-Time Data Integration**
   - Connect the dashboard with live sales data for real-time monitoring.
   - Use Power BI or Tableau for enhanced visualizations and insights.
-  - Implement automated alerts for sudden changes in sales trends.
-- **Supply Chain & Inventory Optimization**
-  - Track inventory levels and suggest restocking based on sales trends.
-  - Identify delays or inefficiencies in the supply chain.
-  - Reduce stockouts and overstock situations for cost efficiency.
-
+ 
 ## 🔚➡️ Conclusion & Next Steps
 The Sales Analysis Dashboard provides a clear and interactive view of sales performance across regions, product categories, and customer segments. It helps businesses track key metrics like total sales, profits, and order status while identifying trends and areas for improvement.With insights into regional and global sales, category performance, and order fulfillment, businesses can make better decisions to improve sales strategies and customer satisfaction.
 
