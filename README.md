@@ -62,9 +62,9 @@ likely reviewed the raw data to understand its structure, identify potential iss
 
 ## 📈 Business Impact 
 - **Data-Driven Decision-Making** – Helps managers understand sales trends and improve strategies.
-- **Performance Monitoring** – Identifies high-performing regions, product categories, and managers.
+- **Performance Monitoring** – Identifies high-performing **regions, product categories, and managers.**
 - **Operational Efficiency** – Tracks order fulfillment rates and highlights potential improvement areas.
-- **Strategic Planning** – Supports market expansion and product line optimizations.
+- **Strategic Planning** – Supports market **expansion** and product line optimizations.
 
 ## 🔍 Additional Project Ideas to Explore
 - **Customer Segmentation Analysis**
@@ -75,12 +75,12 @@ likely reviewed the raw data to understand its structure, identify potential iss
   - Use Power BI or Tableau for enhanced visualizations and insights.
 
 ## ⚙️ Technologies and Tools
-- **Microsoft Excel** (Data visualization, Pivot Tables, Charts)
-- **Power Query** (Data transformation and cleaning)
-- **Data Validation & Conditional Formatting** (Interactive filtering and analysis)
+- **Power Query** – Data import, transformation, and cleaning
+- **Data Validation and Conditional Formatting** – Interactive filtering and rule-based visual cues
+- **Microsoft Excel** – Data analysis and visualization using Pivot Tables and Charts
  
 ## 🔚➡️ Conclusion & Next Steps
-The Sales Analysis Dashboard provides a clear and interactive view of sales performance across regions, product categories, and customer segments. It helps businesses track key metrics like total sales, profits, and order status while identifying trends and areas for improvement.With insights into regional and global sales, category performance, and order fulfillment, businesses can make better decisions to improve sales strategies and customer satisfaction.
+The Sales Analysis Dashboard provides a clear and interactive view of sales performance across **regions, product categories, and customer segments.** It helps businesses track key metrics like total sales, profits, and order status while identifying trends and areas for improvement.With insights into regional and global sales, category performance, and order fulfillment, businesses can make better decisions to improve **sales strategies and customer satisfaction.**
 
 ### Next Steps:
 - Integration with **Power BI or Tableau** for real-time reporting
