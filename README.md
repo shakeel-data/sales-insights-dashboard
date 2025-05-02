@@ -66,11 +66,6 @@ likely reviewed the raw data to understand its structure, identify potential iss
 - **Operational Efficiency** – Tracks order fulfillment rates and highlights potential improvement areas.
 - **Strategic Planning** – Supports market expansion and product line optimizations.
 
-## 🧰 Technologies and Tools
-- **Microsoft Excel** (Data visualization, Pivot Tables, Charts)
-- **Power Query** (Data transformation and cleaning)
-- **Data Validation & Conditional Formatting** (Interactive filtering and analysis)
-
 ## 🔍 Additional Project Ideas to Explore
 - **Customer Segmentation Analysis**
   - Identify purchasing behaviors of new, regular, and VIP customers.
@@ -78,6 +73,11 @@ likely reviewed the raw data to understand its structure, identify potential iss
 - **Real-Time Data Integration**
   - Connect the dashboard with live sales data for real-time monitoring.
   - Use Power BI or Tableau for enhanced visualizations and insights.
+
+## ⚙️ Technologies and Tools
+- **Microsoft Excel** (Data visualization, Pivot Tables, Charts)
+- **Power Query** (Data transformation and cleaning)
+- **Data Validation & Conditional Formatting** (Interactive filtering and analysis)
  
 ## 🔚➡️ Conclusion & Next Steps
 The Sales Analysis Dashboard provides a clear and interactive view of sales performance across regions, product categories, and customer segments. It helps businesses track key metrics like total sales, profits, and order status while identifying trends and areas for improvement.With insights into regional and global sales, category performance, and order fulfillment, businesses can make better decisions to improve sales strategies and customer satisfaction.
