@@ -1,5 +1,5 @@
 # 💰 Interactive Business Intelligence Project | Microsoft Excel
-![im](https://github.com/user-attachments/assets/da0a3713-ac52-47c3-9521-f0f0cfe3f78c)
+![ima](https://github.com/user-attachments/assets/20a2c462-f9c5-45dd-b278-bd8bc0b645de)
 
 Business sales are vital for a company's survival and growth, as they generate revenue, attract and retain customers, and fuel market expansion. Sales teams provide crucial market insights, enhance brand reputation, and create a competitive edge. Ultimately, successful sales drive financial health, support innovation, and contribute to broader economic prosperity. In short, sales are the engine of business success.
 
