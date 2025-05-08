@@ -66,14 +66,6 @@ likely reviewed the raw data to understand its structure, identify potential iss
 - **Operational Efficiency** – Tracks order fulfillment rates and highlights potential improvement areas.
 - **Strategic Planning** – Supports market **expansion** and product line optimizations.
 
-## 🔍 Additional Project Ideas to Explore
-- **Customer Segmentation Analysis**
-  - Identify purchasing behaviors of new, regular, and VIP customers.
-  - Use clustering techniques to categorize high-value customers.
-- **Real-Time Data Integration**
-  - Connect the dashboard with live sales data for real-time monitoring.
-  - Use Power BI or Tableau for enhanced visualizations and insights.
-
 ## ⚙️ Technologies and Tools
 - **Power Query** – Data import, transformation, and cleaning
 - **Data Validation and Conditional Formatting** – Interactive filtering and rule-based visual cues
