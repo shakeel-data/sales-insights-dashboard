@@ -12,7 +12,7 @@ This Sales Analysis Dashboard is an interactive and visually compelling Excel-ba
 - **Performance Monitoring:** Track sales and order status effectively.
 
 ## 📁 Data Sources
-- Excel
+- Kaggle
 <a href="https://github.com/Shakeel-Data/Sales-Analysis-Dashboard/blob/main/Dataset.xlsx">xlsx</a>
 
 # 🪟 Dashboard
@@ -68,6 +68,7 @@ likely reviewed the raw data to understand its structure, identify potential iss
 - **Strategic Planning** – Supports market **expansion** and product line optimizations.
 
 ## ⚙️ Technologies and Tools
+- **Kaggle** – Dataset source
 - **Power Query** – Data import, transformation, and cleaning
 - **Data Validation and Conditional Formatting** – Interactive filtering and rule-based visual cues
 - **Microsoft Excel** – Data analysis and visualization using Pivot Tables and Charts
