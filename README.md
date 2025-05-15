@@ -11,8 +11,9 @@ This Sales Analysis Dashboard is an interactive and visually compelling Excel-ba
 - **Data-Driven Decisions:** Insights to boost profitability and optimize sales strategies.
 - **Performance Monitoring:** Track sales and order status effectively.
 
-## 📁 Data
-- <a href="https://github.com/Shakeel-Data/Sales-Analysis-Dashboard/blob/main/Dataset.xlsx">xlsx</a>
+## 📁 Data Sources
+- Excel
+<a href="https://github.com/Shakeel-Data/Sales-Analysis-Dashboard/blob/main/Dataset.xlsx">xlsx</a>
 
 # 🪟 Dashboard
 ![Project_overview](https://github.com/user-attachments/assets/85aabed7-92df-42f0-8ca6-f0aa6390faff)
