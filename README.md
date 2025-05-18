@@ -77,6 +77,6 @@ likely reviewed the raw data to understand its structure, identify potential iss
 The Sales Analysis Dashboard provides a clear and interactive view of sales performance across **regions, product categories, and customer segments.** It helps businesses track key metrics like total sales, profits, and order status while identifying trends and areas for improvement.With insights into regional and global sales, category performance, and order fulfillment, businesses can make better decisions to improve **sales strategies and customer satisfaction.**
 
 ### Next Steps:
-- Integration with **Power BI or Tableau** for real-time reporting
+- Integration with **Microsoft Power BI or Tableau** for real-time reporting
 - Predictive analytics for **sales forecasting**
   
