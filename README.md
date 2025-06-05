@@ -35,7 +35,7 @@ likely reviewed the raw data to understand its structure, identify potential iss
 - **Standardizing Data:** Ensuring consistent formatting for dates, text, and numerical values.
 - **Removing Duplicates:** Identifying and eliminating redundant records.
 
-### 4. Data Transformation
+### 4. 🔄 Data Transformation
 **Manipulated the data to make it suitable for analysis and visualization:**
 - **Filtering Data:** Selecting specific subsets of data based on criteria (e.g., specific years, customer types).
 - **Sorting Data:** Arranging data in a specific order for easier analysis.
