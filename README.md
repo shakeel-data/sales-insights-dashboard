@@ -62,10 +62,10 @@ likely reviewed the raw data to understand its structure, identify potential iss
   - Adding titles and labels to clearly communicate the information.
 
 ## 📈 Business Impact 
-- **Data-Driven Decision-Making** – Helps managers understand sales trends and improve strategies.
 - **Performance Monitoring** – Identifies high-performing **regions, product categories, and managers.**
 - **Operational Efficiency** – Tracks order fulfillment rates and highlights potential improvement areas.
 - **Strategic Planning** – Supports market **expansion** and product line optimizations.
+- **Data-Driven Decision-Making** – Helps managers understand sales trends and improve strategies.
 
 ## ⚙️ Technologies and Tools
 - **Kaggle** – Dataset source
