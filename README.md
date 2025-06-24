@@ -22,7 +22,7 @@ This Sales Analysis Dashboard is an interactive and visually compelling Excel-ba
 ## 🪜 Project Workflow
 ### 1. 📝 Data Acquisition and Preparation
 **Identify and Access Data Sources:** 
-  - Opening CSV/TXT files or XLXS files
+  - Opening XLXS file.
   - Copying and pasting data from various sources.
 
 ### 2. 🔍 Initial Data Exploration
