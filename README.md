@@ -1,5 +1,6 @@
 # 💰 Interactive Business Insights Dashboard Project | Microsoft Excel + Power Query
 ![ima](https://github.com/user-attachments/assets/20a2c462-f9c5-45dd-b278-bd8bc0b645de)
+Added a detailed overview of the project, its features, and tools used. Improves clarity for recruiters and viewers.
 
 The Business sales are vital for a company's **survival and growth, as they generate revenue, attract and retain customers, and fuel market expansion.** Sales teams provide crucial market insights, enhance brand reputation, and create a competitive edge. Ultimately, successful sales drive financial health, support innovation, and contribute to broader economic prosperity. In short, sales are the engine of business success.
 
