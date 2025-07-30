@@ -70,6 +70,7 @@ likely reviewed the raw data to understand its structure, identify potential iss
 ## ⚙️ Technologies and Tools
 - **Kaggle** – Dataset source
 - **Power Query** – Data import, transformation, and cleaning
+- **VBA** – Automated repetitive Excel tasks using macros and custom scripting
 - **Data Validation and Conditional Formatting** – Interactive filtering and rule-based visual cues
 - **Microsoft Excel** – Data analysis and visualization using Pivot Tables and Charts
  
