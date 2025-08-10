@@ -3,7 +3,7 @@
 
 The Business sales are vital for a company's **survival and growth, as they generate revenue, attract and retain customers, and fuel market expansion.** Sales teams provide crucial market insights, enhance brand reputation, and create a competitive edge. Ultimately, successful sales drive financial health, support innovation, and contribute to broader economic prosperity. In short, sales are the engine of business success.
 
-## 📘 Project Overview
+## 📘 Project Overview 
 This Sales Analysis Dashboard is an interactive and visually compelling Excel-based tool designed to provide business stakeholders with key insights into sales performance across multiple regions, customer segments, and payment methods. This dashboard enables decision-makers to track total sales, profitability, regional distribution, category-wise performance, and order statuses at a glance.
 
 ## 🎯 Key Objectives
