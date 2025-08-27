@@ -79,7 +79,7 @@ This Sales Analysis Dashboard is an interactive and visually compelling Excel-ba
 - **Strategic Planning** – Supports market **expansion** and product line optimizations.
 - **Data-Driven Decision-Making** – Helps managers understand sales trends and improve strategies.
 
-## ⚙️ Technologies and Tools
+## ⚙️ Tools and Technologies
 - **Kaggle** – Dataset source
 - **Power Query** – Data import, transformation, and cleaning
 - **VBA** – Automated repetitive Excel tasks using macros and custom scripting
